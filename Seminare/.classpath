@@ -10,5 +10,7 @@
 	<classpathentry kind="src" path="Seminar04-Singleton"/>
 	<classpathentry kind="src" path="Seminar05-Factory"/>
 	<classpathentry kind="src" path="Seminar05-SimpleFactory"/>
+	<classpathentry kind="src" path="Seminar06-Builder"/>
+	<classpathentry kind="src" path="Seminar06-Prototype"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
