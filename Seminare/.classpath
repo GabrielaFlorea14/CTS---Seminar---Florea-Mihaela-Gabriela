@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="Seminar05-SimpleFactory"/>
 	<classpathentry kind="src" path="Seminar06-Builder"/>
 	<classpathentry kind="src" path="Seminar06-Prototype"/>
+	<classpathentry kind="src" path="Seminar08-Adapter"/>
+	<classpathentry kind="src" path="Seminar08-Proxy"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
