@@ -14,5 +14,8 @@
 	<classpathentry kind="src" path="Seminar06-Prototype"/>
 	<classpathentry kind="src" path="Seminar08-Adapter"/>
 	<classpathentry kind="src" path="Seminar08-Proxy"/>
+	<classpathentry kind="src" path="Seminar09-Facade"/>
+	<classpathentry kind="src" path="Seminar09-Decorator"/>
+	<classpathentry kind="src" path="Seminar09-Composite"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
