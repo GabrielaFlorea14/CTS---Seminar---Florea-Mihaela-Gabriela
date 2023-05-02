@@ -17,5 +17,9 @@
 	<classpathentry kind="src" path="Seminar09-Facade"/>
 	<classpathentry kind="src" path="Seminar09-Decorator"/>
 	<classpathentry kind="src" path="Seminar09-Composite"/>
+	<classpathentry kind="src" path="Seminar10-Flyweight"/>
+	<classpathentry kind="src" path="Seminar10-Strategy"/>
+	<classpathentry kind="src" path="Seminar10-Observer"/>
+	<classpathentry kind="src" path="Seminar10-Chain"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
