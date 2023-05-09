@@ -7,25 +7,23 @@ public class MasaLocala extends MasaRestaurant {
 	}
 
 	@Override
-	public void curataMasa() {
+	protected void curataMasa() {
 		System.out.println("Chelnerul curata masa " + getNrMasa() + " deoarece clientii asteapta la usa.");
 	}
 
 	@Override
-	public void aseazaServetele() {
+	protected void aseazaServetele() {
 		System.out.println("Se aseaza servetele pe masa " + getNrMasa() + " pentru clientii care asteapta la usa.");
 	}
 
 	@Override
-	public void aseazaTacamuri() {
+	protected void aseazaTacamuri() {
 		System.out.println("Se aseaza tacamuri pe masa " + getNrMasa() + " pentru clientii care asteapta la usa.");
 	}
 
 	@Override
-	public void invitaClienti() {
-		System.out.println("Se invita clientii la masa " + getNrMasa() + ".");
-
-		
+	protected void invitaClienti() {
+		System.out.println("Se invita clientii la masa " + getNrMasa() + ".");	
 	}
 
 }
