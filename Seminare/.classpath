@@ -23,7 +23,7 @@
 	<classpathentry kind="src" path="Seminar10-Chain"/>
 	<classpathentry kind="src" path="Seminar11-State"/>
 	<classpathentry kind="src" path="Seminar11-Template"/>
-	<classpathentry kind="src" path="Seminar11-Command"/>
 	<classpathentry kind="src" path="Seminar11-Memento"/>
+	<classpathentry kind="src" path="Seminar11-Command"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
